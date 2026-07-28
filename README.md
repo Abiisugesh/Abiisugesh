@@ -1,50 +1,52 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abiisugesh/Abiisugesh/main/firefly-banner.svg" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/Abiisugesh/Abiisugesh/main/tech-banner.svg" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%95%B8%EF%B8%8F+I'm+Abiisugesh;Weaving+code+into+something+worth+catching;Full-Stack+Developer" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=500&size=20&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;Building+clean%2C+reliable+software" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/status-spinning%20new%20webs-39FF14?style=for-the-badge&labelColor=0d1117"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a1220)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0a1220)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-0a1220?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0a1220)](#)
 
 </div>
 
 <br/>
 
-## 🕷️ About the web
+## About
 
-I build things that live on the web — literally and figuratively. Here's what's caught in my strands lately:
+I'm a full-stack developer focused on building clean, maintainable web applications. I enjoy working across the stack — from designing intuitive interfaces to building the systems that power them.
 
-- 🔭 Currently working on **Squares**, **Abi-Sugesh**, and **WavesandMist**
-- 🌐 Comfortable across JavaScript & TypeScript
-- ⚡ I like clean, dark UIs — you can probably tell
-- 📫 Reach me by opening an issue or a DM
+- 🚀 Currently building **Squares**, **Abi-Sugesh**, and **WavesandMist**
+- 🧠 Comfortable with JavaScript, TypeScript, and modern front-end frameworks
+- 🎯 I care about clean code, thoughtful UI, and getting the details right
+- 📬 Open to opportunities and collaboration — reach out anytime
 
 <br/>
 
-## 🧵 Tech I spin with
+## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,git,github,vscode,figma&theme=dark" />
 </div>
 
 <br/>
 
-## 🕸️ Web stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abiisugesh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abiisugesh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abiisugesh&show_icons=true&theme=dark&hide_border=true&bg_color=0a1220&title_color=38BDF8&icon_color=38BDF8&text_color=c9d5e0" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abiisugesh&layout=compact&theme=dark&hide_border=true&bg_color=0a1220&title_color=38BDF8&text_color=c9d5e0" width="38%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abiisugesh&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abiisugesh&theme=dark&hide_border=true&background=0A1220&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="60%"/>
 
 </div>
 
 <br/>
 
-## 🕸️ Contribution web
+## Contribution Activity
 
 <div align="center">
 
@@ -54,14 +56,27 @@ I build things that live on the web — literally and figuratively. Here's what'
 
 </div>
 
-> The snake above eats through your real contribution graph — see the **optional setup** below to make it live.
+<br/>
+
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Abiisugesh/Squares">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abiisugesh&repo=Squares&theme=dark&hide_border=true&bg_color=0a1220&title_color=38BDF8&icon_color=38BDF8&text_color=c9d5e0" width="45%"/>
+</a>
+<a href="https://github.com/Abiisugesh/WavesandMist">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abiisugesh&repo=WavesandMist&theme=dark&hide_border=true&bg_color=0a1220&title_color=38BDF8&icon_color=38BDF8&text_color=c9d5e0" width="45%"/>
+</a>
+
+</div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39FF14&height=120&section=footer&text=Thanks%20for%20visiting&fontColor=ffffff&fontSize=22&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1220,100:38BDF8&height=110&section=footer&text=Thanks%20for%20visiting&fontColor=ffffff&fontSize=20&animation=fadeIn"/>
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Abiisugesh&label=Profile%20Views&color=39FF14&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Abiisugesh&label=Profile%20Views&color=38BDF8&style=flat-square"/>
 </div>
