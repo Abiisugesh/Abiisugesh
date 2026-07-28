@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Abiisugesh/Abiisugesh/main/tech-banner.svg" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=500&size=20&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;Building+clean%2C+reliable+software" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=500&size=20&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+React.js+%7C+Javascript+%7C+Next.js+%7C+My Sql;Building+clean%2C+reliable+software" alt="Typing SVG"/>
 
 <br/>
 
