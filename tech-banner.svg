@@ -1,0 +1,95 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#060a12"/>
+      <stop offset="55%" stop-color="#0a1220"/>
+      <stop offset="100%" stop-color="#050810"/>
+    </linearGradient>
+    <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7fdcff" stop-opacity="0.4"/>
+      <stop offset="45%" stop-color="#ffffff"/>
+      <stop offset="55%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.4"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1.2 0" to="1.2 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- circuit grid -->
+  <g stroke="#1e3a5f" stroke-width="1" opacity="0.55">
+    <line x1="0" y1="50" x2="1200" y2="50"/>
+    <line x1="0" y1="100" x2="1200" y2="100"/>
+    <line x1="0" y1="150" x2="1200" y2="150"/>
+    <line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="0" y1="250" x2="1200" y2="250"/>
+    <line x1="100" y1="0" x2="100" y2="300"/>
+    <line x1="220" y1="0" x2="220" y2="300"/>
+    <line x1="340" y1="0" x2="340" y2="300"/>
+    <line x1="860" y1="0" x2="860" y2="300"/>
+    <line x1="980" y1="0" x2="980" y2="300"/>
+    <line x1="1100" y1="0" x2="1100" y2="300"/>
+  </g>
+
+  <!-- grid intersection nodes -->
+  <g fill="#38bdf8" opacity="0.5">
+    <circle cx="100" cy="50" r="2"/>
+    <circle cx="220" cy="100" r="2"/>
+    <circle cx="340" cy="150" r="2"/>
+    <circle cx="860" cy="150" r="2"/>
+    <circle cx="980" cy="100" r="2"/>
+    <circle cx="1100" cy="50" r="2"/>
+    <circle cx="100" cy="250" r="2"/>
+    <circle cx="1100" cy="250" r="2"/>
+  </g>
+
+  <!-- traveling data pulses along grid lines -->
+  <g filter="url(#softGlow)">
+    <circle r="3" fill="#7fdcff">
+      <animateMotion path="M 0,50 L 1200,50" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#38bdf8">
+      <animateMotion path="M 1200,200 L 0,200" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.4" fill="#7fdcff">
+      <animateMotion path="M 100,0 L 100,300" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.4" fill="#38bdf8">
+      <animateMotion path="M 1100,300 L 1100,0" dur="5.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- HUD corner brackets -->
+  <g stroke="#7fdcff" stroke-width="2" fill="none" filter="url(#glow)" opacity="0.85">
+    <path d="M 30,20 L 30,50 M 30,20 L 60,20"/>
+    <path d="M 1170,20 L 1170,50 M 1170,20 L 1140,20"/>
+    <path d="M 30,280 L 30,250 M 30,280 L 60,280"/>
+    <path d="M 1170,280 L 1170,250 M 1170,280 L 1140,280"/>
+  </g>
+
+  <!-- title with shimmer sweep -->
+  <text x="600" y="145" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-weight="700"
+        font-size="52" letter-spacing="6" fill="url(#shimmer)" filter="url(#glow)">ABIISUGESH</text>
+  <text x="600" y="182" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16"
+        letter-spacing="3" fill="#7fdcff" opacity="0.85">FULL-STACK DEVELOPER</text>
+
+  <!-- status indicator -->
+  <g transform="translate(600,225)">
+    <circle cx="-90" cy="0" r="4" fill="#38bdf8">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="-78" y="4" font-family="'Segoe UI', Arial, sans-serif" font-size="12" letter-spacing="1.5" fill="#8aa8c2">SYSTEM STATUS: ONLINE</text>
+  </g>
+</svg>
