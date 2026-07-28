@@ -2,13 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/Abiisugesh/Abiisugesh/main/tech-banner.svg" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=500&size=20&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+React.js+%7C+Javascript+%7C+Next.js+%7C+My Sql;Building+clean%2C+reliable+software" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=500&size=20&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+React+%7C+Next.js+%7C+Spring+Boot;Building+clean%2C+reliable+software" alt="Typing SVG"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a1220)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0a1220)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-0a1220?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0a1220)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a1220)](https://abisugesh.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0a1220)](https://www.linkedin.com/in/abi-sugesh)
+[![Email](https://img.shields.io/badge/Email-Contact-0a1220?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0a1220)](mailto:abiisugesh@gmail.com)
 
 </div>
 
@@ -19,7 +19,7 @@
 I'm a full-stack developer focused on building clean, maintainable web applications. I enjoy working across the stack — from designing intuitive interfaces to building the systems that power them.
 
 - 🚀 Currently building **Squares**, **Abi-Sugesh**, and **WavesandMist**
-- 🧠 Comfortable with JavaScript, TypeScript, and modern front-end frameworks
+- 🧠 Comfortable with Java, Spring Boot, React, and Next.js
 - 🎯 I care about clean code, thoughtful UI, and getting the details right
 - 📬 Open to opportunities and collaboration — reach out anytime
 
@@ -28,7 +28,7 @@ I'm a full-stack developer focused on building clean, maintainable web applicati
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,js,nodejs,html,css,git,github,vscode&theme=dark" />
 </div>
 
 <br/>
