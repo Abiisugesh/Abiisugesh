@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="125" viewBox="0 0 1200 125" role="img" aria-label="Thanks for visiting">
+<defs><linearGradient id="water" x1="0" x2="1"><stop stop-color="#0A1220"/><stop offset="0.5" stop-color="#105171"/><stop offset="1" stop-color="#0A1220"/></linearGradient></defs>
+<rect width="1200" height="125" rx="14" fill="#0A1220"/>
+<path d="M0 32 Q150 -6 300 32 T600 32 T900 32 T1200 32 V125 H0Z" fill="url(#water)" fill-opacity="0.37"/>
+<path d="M0 32 Q150 -6 300 32 T600 32 T900 32 T1200 32" fill="none" stroke="#38BDF8" stroke-opacity="0.8" stroke-width="2" stroke-dasharray="70 380"><animate attributeName="stroke-dashoffset" from="450" to="0" dur="7s" repeatCount="indefinite"/></path>
+<text x="600" y="73" text-anchor="middle" fill="#DBF4FF" font-size="23" font-weight="650" font-family="Segoe UI, Arial, sans-serif">Thanks for stopping by</text>
+<text x="600" y="98" text-anchor="middle" fill="#7DB8D3" font-size="13" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1.6">LET'S BUILD SOMETHING GREAT</text>
+</svg>
